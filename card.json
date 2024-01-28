@@ -1,8 +1,10 @@
 [
-  { "id": 1, "title": "Başlık 1", "content": "İçerik 1", "image": "https://placekitten.com/300/200" },
-  { "id": 2, "title": "Başlık 2", "content": "İçerik 2", "image": "https://placekitten.com/300/201" },
-  { "id": 3, "title": "Başlık 3", "content": "İçerik 3", "image": "https://placekitten.com/300/202" },
-  { "id": 4, "title": "Başlık 4", "content": "İçerik 4", "image": "https://placekitten.com/300/203" },
-  { "id": 5, "title": "Başlık 5", "content": "İçerik 5", "image": "https://placekitten.com/300/204" },
-  { "id": 6, "title": "Başlık 6", "content": "İçerik 6", "image": "https://placekitten.com/300/205" }
+  { "id": 1, "title": "Major Dynaball update - New items and maps!!", "content": "Tuesday at 1:36 PM", 
+    "image": "https://cdn.discordapp.com/attachments/545950598537674764/1201088277810257960/news1.jpg?ex=65c88ba0&is=65b616a0&hm=09454f9e906c5357111a35911cdefe50c59b76436e6991f9022fcbf3253839b6&" },
+  
+  { "id": 2, "title": "Season 3 Begins! Welcome to the Candy Factory!", "content": "Tuesday at 1:36 PM", 
+    "image": "https://cdn.discordapp.com/attachments/545950598537674764/1201088278590402601/news2.jpg?ex=65c88ba0&is=65b616a0&hm=f35a8013adc5232609c44de0767fb4f106db85fecb45a492ec23230fb0fa4efa&" },
+  
+  { "id": 3, "title": "Mega Update - Hitting a Milestone on MCC Island!", "content": "Tuesday at 1:36 PM", 
+    "image": "https://cdn.discordapp.com/attachments/545950598537674764/1201088279198568508/news3.jpg?ex=65c88ba0&is=65b616a0&hm=e7a7ad8e4c38c5b6a1dbad21150610b5d2cbe0125056735bf5c677b52ee4375e&" }
 ]
